@@ -1,9 +1,10 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-The model for an individual landmark.
-*/
+//
+//  Landmark.swift
+//  ListAppSwiftUI
+//
+//  Created by Mamun on 23/10/19.
+//  Copyright © 2019 BTech Creators. All rights reserved.
+//
 
 import SwiftUI
 import CoreLocation
