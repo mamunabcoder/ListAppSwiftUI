@@ -1,9 +1,9 @@
-/*
-See LICENSE folder for this sample’s licensing information.
-
-Abstract:
-A view that hosts an `MKMapView`.
-*/
+//  MapView.swift
+//  ListAppSwiftUI
+//
+//  Created by Mamun on 23/10/19.
+//  Copyright © 2019 BTech Creators. All rights reserved.
+//
 
 import SwiftUI
 import MapKit
